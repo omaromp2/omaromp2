@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @omaromp2
+- 👋 Hi, I’m @omaromp2 a dad and a web developer.
 - 👀 I’m interested in Laravel and other cool frameworks
-- 🌱 I’m currently learning PHP, JS
+- 🌱 I’m currently learning PHP, JS, and .NET
 - 💞️ I’m looking to collaborate on many projects
 - 📫 How to reach me omargponce@gmail.com
 
